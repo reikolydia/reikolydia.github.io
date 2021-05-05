@@ -16,15 +16,21 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)
+![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B&logoColor=00599C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=MySQL)
+
+
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=Windows)
+![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat-square&logo=Apple)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
