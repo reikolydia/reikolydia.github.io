@@ -223,7 +223,7 @@ console.log("%cI %calso %cknow there are errors here.", "color: red", "color: ye
 console.log("%cSTILL, WHY ARE YOU HERE?", logstyle);
 console.log("%cMaybe you'd like to download my resume here instead?", "color: green");
 console.groupCollapsed("Click here then.");
-console.log("https://github.com/nnk95/nnk95/raw/master/images/about/JazereelGoh_2021.pdf\n");
+console.log("https://github.com/reikolydia/reikolydia/raw/master/images/about/JazereelGoh_2021.pdf\n");
 console.group("Just make sure the file has the following hashes:");
 console.table(hashes);
 console.groupEnd;
