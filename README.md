@@ -6,7 +6,7 @@
 
 ---
 
-### About Me
+### 🎆 &nbsp;About Me
 
 > I am a highly motivated and adaptable individual capable of handling many different situations and problems. I am also a quick learner and do enjoy taking up new challenges to solve problems.
 
@@ -23,4 +23,6 @@
 
 ---
 
-### 
+### 📞 &nbsp;Contact Me!
+
+✉️ &nbsp;You can email me at reikolydia@icloud.com
