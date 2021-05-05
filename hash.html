@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>File Hashes</title>    
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js"></script>
+    <script type="text/javascript">
+
+    function calculateMD5(blob) {
+      return new Promise((resolve) => {
+        const reader = new FileReader();
+        reader.readAsArrayBuffer(blob);
+        reader.onloadend = function () {
+          var wordArray = CryptoJS.lib.WordArray.create(reader.result),
+            hashMD5 = CryptoJS.MD5(wordArray).toString();
+            resolve(hashMD5)
+        };
+      })
+    }
+
+    function CreateHashMD5(){
+
+      const hashResultDiv = document.getElementById('hash-result-md5')
+          
+      fetch(document.getElementById('url-input').value)
+        .then(function(response) {
+          return response.blob()
+        })
+        .then(blob => {
+          return calculateMD5(blob)        
+        })
+        .then(hashMD5 => {
+          hashResultDiv.innerHTML = hashMD5
+          console.log(`MD5 Hash of the file is: ${hashMD5}`)
+        })
+        .catch(err => {
+        hashResultDiv.innerHTML = err
+         console.error(err) 
+        });
+      
+      }
+      </script>
+      <script type="text/javascript">
+
+        function calculateSHA1(blob) {
+          return new Promise((resolve) => {
+            const reader = new FileReader();
+            reader.readAsArrayBuffer(blob);
+            reader.onloadend = function () {
+              var wordArray = CryptoJS.lib.WordArray.create(reader.result),
+                hashSHA1 = CryptoJS.SHA1(wordArray).toString();
+                resolve(hashSHA1)
+            };
+          })
+        }
+    
+        function CreateHashSHA1(){
+    
+          const hashResultDiv = document.getElementById('hash-result-sha-1')
+              
+          fetch(document.getElementById('url-input').value)
+            .then(function(response) {
+              return response.blob()
+            })
+            .then(blob => {
+              return calculateSHA1(blob)        
+            })
+            .then(hashSHA1 => {
+              hashResultDiv.innerHTML = hashSHA1
+              console.log(`SHA-1 Hash of the file is: ${hashSHA1}`)
+            })
+            .catch(err => {
+            hashResultDiv.innerHTML = err
+             console.error(err) 
+            });
+          
+          }
+          </script>
+          <script type="text/javascript">
+
+            function calculateSHA3(blob) {
+              return new Promise((resolve) => {
+                const reader = new FileReader();
+                reader.readAsArrayBuffer(blob);
+                reader.onloadend = function () {
+                  var wordArray = CryptoJS.lib.WordArray.create(reader.result),
+                    hashSHA3 = CryptoJS.SHA3(wordArray).toString();
+                    resolve(hashSHA3)
+                };
+              })
+            }
+        
+            function CreateHashSHA3512(){
+        
+              const hashResultDiv = document.getElementById('hash-result-sha-3-512')
+                  
+              fetch(document.getElementById('url-input').value)
+                .then(function(response) {
+                  return response.blob()
+                })
+                .then(blob => {
+                  return calculateSHA3(blob)        
+                })
+                .then(hashSHA3 => {
+                  hashResultDiv.innerHTML = hashSHA3
+                  console.log(`SHA-3:512 Hash of the file is: ${hashSHA3}`)
+                })
+                .catch(err => {
+                hashResultDiv.innerHTML = err
+                 console.error(err) 
+                });
+              
+              }
+              </script>
+    
+  </head>
+  <body style="text-align: center;">
+    <h1>Enter the url of the file:</h1>    
+    <input id="url-input" type="text" oninput="CreateHashMD5(); CreateHashSHA1(); CreateHashSHA3512()" style="width: 400px">
+    <br>
+    <h2>MD5 hash:</h2>
+    <div id="hash-result-md5">
+    </div>
+      <br>
+    <h2>SHA-1 hash:</h2>
+    <div id="hash-result-sha-1">
+    </div>
+      <br>
+    <h2>SHA-3:512 hash:</h2>
+    <div id="hash-result-sha-3-512">
+    </div>
+		
+  </body>
+</html>
