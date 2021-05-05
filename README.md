@@ -16,21 +16,22 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)
-![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B&logoColor=00599C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=MySQL)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 
-
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=Windows)
-![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat-square&logo=Apple)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows)
+![Mac](https://img.shields.io/badge/-Mac-05122A?style=for-the-badge&logo=Apple)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)
 
 ---
 
