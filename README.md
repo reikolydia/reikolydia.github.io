@@ -10,4 +10,4 @@
 
 -  `https://reikolydia.github.io/`
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia&show_icons=true&theme=radical)
