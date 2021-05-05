@@ -13,5 +13,6 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)](https://github.com/reikolydia)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/reikolydia)
+
 [![reikolydia.github.io](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=reikolydia.github.io&theme=radical)](https://reikolydia.github.io)
