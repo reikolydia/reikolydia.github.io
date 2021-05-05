@@ -25,12 +25,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=MySQL)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows&logoColor=blue)
 ![Mac](https://img.shields.io/badge/-Mac-05122A?style=for-the-badge&logo=Apple)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)
 
 ---
