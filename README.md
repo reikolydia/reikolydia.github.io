@@ -43,6 +43,7 @@
 
 ### 📞 &nbsp;Contact Me!
 
-✉️ &nbsp;You can email me at: reikolydia@icloud.com
-
-🚩 &nbsp;You can also send me a WhatsApp text: [+65 96723481](https://wa.me/6596723481/)
+[![iCloud](https://img.shields.io/badge/-reikolydia@icloud.com-05122A?style=for-the-badge&logo=iCloud)](mailto:reikolydia@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jazereel-lydia-goh-reiko/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-05122A?style=for-the-badge&logo=WhatsApp)](https://wa.me/6596723481/)
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=for-the-badge&logo=Telegram)](https://t.me/Jazereel/)
