@@ -9,7 +9,7 @@
 > I am a highly motivated and adaptable individual capable of handling many different situations and problems. I am also a quick learner and do enjoy taking up new challenges to solve problems.
 
 
--  `https://reikolydia.github.io/`
+-  [https://reikolydia.github.io/](https://reikolydia.github.io/)
 
 ---
 
