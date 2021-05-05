@@ -1,6 +1,6 @@
 ### <img alt="handwavegif" src="https://github.com/reikolydia/reikolydia.github.io/raw/main/images/about/handwave.gif" width='40' align="left"/> HELLO & WELCOME!
 
-![Lines of code](https://img.shields.io/tokei/lines/github/reikolydia/reikolydia.github.io?label=Lines%20Written&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/reikolydia?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/reikolydia/reikolydia.github.io?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/reikolydia/reikolydia.github.io?label=Lines%20Written&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/reikolydia?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/reikolydia/reikolydia.github.io?style=for-the-badge) [![Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE%21&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Freikolydia.github.io%2F)](https://reikolydia.github.io/)
 
 ---
 
@@ -35,17 +35,9 @@
 
 ---
 
-### 🛠 &nbsp;Some Statistics
+### 🛠 &nbsp;Some Basic Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/reikolydia)
-
-<br>
-
-🧠 <b>My Profile Site</b> <i>Click below!</i>
-
-[![Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE%21&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Freikolydia.github.io%2F)](https://reikolydia.github.io/)
-
-[![reikolydia.github.io](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=reikolydia.github.io&theme=radical)](https://reikolydia.github.io)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/reikolydia) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reikolydia&layout=compact&theme=radical)](https://github.com/reikolydia)
 
 ---
 
