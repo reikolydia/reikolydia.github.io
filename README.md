@@ -42,7 +42,7 @@
 
 🧠 <b>My Profile Site</b> <i>Click below!</i>
 
-![Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE%21&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Freikolydia.github.io%2F)
+[![Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE%21&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Freikolydia.github.io%2F)](https://reikolydia.github.io/)
 
 [![reikolydia.github.io](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=reikolydia.github.io&theme=radical)](https://reikolydia.github.io)
 
