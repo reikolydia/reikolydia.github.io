@@ -100,12 +100,19 @@ body {
   width: 100%;
   text-align: center;
 }
+#intro2 {
+  position: absolute;
+  left: 0;
+  top: 15%;
+  width: 100%;
+  text-align: center;
+}
 img {
   max-width: 100%;
   height: auto;
   position: absolute;
   margin: auto;
-  top: -150%;
+  top: -100%;
   bottom: 100%;
   left: 0;
   right: 0;

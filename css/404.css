@@ -1,0 +1,93 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+    background-image: url('../images/main/bg.svg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    line-height: 1.3;
+    -webkit-font-smoothing: antialiased;
+	}
+.st0{font-family:'FootlightMTLight';}
+.st1{font-size:83.0285px;}
+.st2{fill:gray;}
+
+svg{
+  width: 500px;
+    height: 400px;
+    text-align: center;
+    fill: #ffccff;
+}
+path#XMLID_5_ {
+   
+    fill: #ffccff;
+    filter: url(#blurFilter4);
+}
+path#XMLID_11_ ,path#XMLID_2_ {
+    fill: #ffccff;
+}
+.circle{
+  animation: out 2s infinite ease-out;
+  fill: #ffccff;
+}
+
+#container{
+  text-align:center;
+}
+.message{
+	color:#ffccff;
+    margin: 0 0 30px 0;
+    font-family: ELIXIA;
+    font-size: 40px;
+}
+.message:after{
+	content:"]";
+}
+.message:before{
+	content:"[";
+}
+
+.message:after, .message:before {
+  color: #ffccff;
+  font-size: 110px;
+  -webkit-animation-name: opacity;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-name: opacity;
+          animation-name: opacity;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+          margin:0 30px;
+}
+
+@-webkit-keyframes opacity {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes opacity {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes out {
+  0% {r:1;  opacity: 0.9 ;}
+  25%{r:5;  opacity: 0.3 ;}
+  50%{r:10; opacity: 0.2 ;}
+  75%{r:15;opacity:0.1;}
+ 	100% {r:20;opacity:0;}
+}
