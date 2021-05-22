@@ -211,9 +211,13 @@ $("#testimonial-carousel").owlCarousel({
 
 //ugly implementation of hashing here
 //scheduled to automate this via js
-var md5hash = 'E70BF36379BCD4DD7737129AEF0E7086';
-var sha1hash = '49B33F2B34FF018AA27B3C2A0349DA5F37C4ED54';
-var sha3512hash = '9607877E27A1A4B32308B78BADE0DD317B5A92C09A4C46F3A83ADFC223AF5A64E95371A5B53C291AA4125E77D21EC0765068E1083262B72D2BD473542A862908';
+
+// Get-FileHash .\JazereelGoh_2021.pdf -Algorithm MD5 | Format-List
+var md5hash = 'D33F24B5019F15B9B07F04200D515777';
+// Get-FileHash .\JazereelGoh_2021.pdf -Algorithm SHA1 | Format-List
+var sha1hash = '24A76F14ABDD1ED57450CEFA0CCF7EFB07ECD7C1';
+// Get-FileHash .\JazereelGoh_2021.pdf -Algorithm SHA512 | Format-List
+var sha3512hash = '5E7D000B3D4E22E6C57DA0CC0160181BE84039AE1089BB1451711C1BC9C19BBEB1F9A97D155352D3FF22D3316E9A2840FFB6B04DBD325820AD07FF355231588C';
 var hasharray = [{hashname: 'MD5', hashvalue: md5hash}, {hashname: 'SHA-1', hashvalue: sha1hash}, {hashname: 'SHA3-512', hashvalue: sha3512hash}];
 var hashes = hasharray.reduce((acc, {hashname, ...x}) => { acc[hashname] = x; return acc}, {});
 
