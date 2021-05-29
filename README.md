@@ -8,10 +8,10 @@
 
 ![](https://komarev.com/ghpvc/?username=reikolydia&color=ff69b4&style=flat-square)
 
-❗ <b>JAZEREEL LYDIA GOH REIKO</b> ❗
+❗ ⪼ <b>JAZEREEL LYDIA GOH REIKO</b> ⪻ ❗
 
-💡 - A highly motivated and adaptable individual capable of handling many different situations and problems.
-⚡ - I'm also a quick learner and very much enjoy taking up new challenges to solve all sorts of problems.
+💡 - A highly motivated and adaptable individual capable of handling many different situations and problems. <br>
+⚡ - I'm also a quick learner and very much enjoy taking up new challenges to solve all sorts of problems. <br>
 💻 - A firm believer that computers should work for us, and not the other way around!
 
 <br>
