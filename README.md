@@ -1,5 +1,7 @@
 ### <img alt="handwavegif" src="https://github.com/reikolydia/reikolydia.github.io/raw/main/images/about/handwave.gif" width='40' align="left"/> HELLO & WELCOME!
 
+<br>
+
 ![Lines of code](https://img.shields.io/tokei/lines/github/reikolydia/reikolydia.github.io?label=Lines%20Written&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/reikolydia?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/reikolydia/reikolydia.github.io?style=for-the-badge) [![Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE%21&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fwww.reikolydia.xyz%2F)](https://www.reikolydia.xyz/)
 
 ---
@@ -8,10 +10,10 @@
 
 ![](https://komarev.com/ghpvc/?username=reikolydia&color=ff69b4&style=flat-square)
 
-❗ <b>JAZEREEL LYDIA GOH REIKO</b> ❗
+❗ ⪼ <b>JAZEREEL LYDIA GOH REIKO</b> ⪻ ❗
 
-💡 - A highly motivated and adaptable individual capable of handling many different situations and problems.
-⚡ - I'm also a quick learner and very much enjoy taking up new challenges to solve all sorts of problems.
+💡 - A highly motivated and adaptable individual capable of handling many different situations and problems. <br>
+⚡ - I'm also a quick learner and very much enjoy taking up new challenges to solve all sorts of problems. <br>
 💻 - A firm believer that computers should work for us, and not the other way around!
 
 <br>
@@ -35,7 +37,9 @@
 
 ---
 
-### 🛠 &nbsp;Some Basic Statistics
+### 🛠 &nbsp;Some Interesting Things You Might Want To Know
+
+<br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/reikolydia) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reikolydia&layout=compact&theme=radical)](https://github.com/reikolydia)
 
