@@ -26,6 +26,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=MySQL)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
+![SenseTalk](https://img.shields.io/badge/Eggplant%20SenseTalk-05122A?style=for-the-badge&logo=egghead)
 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows&logoColor=blue)
 ![Mac](https://img.shields.io/badge/-Mac-05122A?style=for-the-badge&logo=Apple)
@@ -48,6 +49,9 @@
 ### 📞 &nbsp;Contact Me!
 
 [![iCloud](https://img.shields.io/badge/-reikolydia@icloud.com-05122A?style=for-the-badge&logo=iCloud)](mailto:reikolydia@icloud.com)
+[![Email](https://img.shields.io/badge/reiko%40reikolydia.xyz-05122A?style=for-the-badge&logo=Mail.Ru)](mailto:reiko@reikolydia.xyz)
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jazereel-lydia-goh-reiko/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-05122A?style=for-the-badge&logo=WhatsApp)](https://wa.me/6596723481/)
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=for-the-badge&logo=Telegram)](https://t.me/Jazereel/)
