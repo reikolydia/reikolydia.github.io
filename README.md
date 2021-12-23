@@ -2,7 +2,7 @@
 
 <br>
 
-![Lines of code](https://img.shields.io/tokei/lines/github/reikolydia/reikolydia.github.io?label=Lines%20Written&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/reikolydia?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/reikolydia/reikolydia.github.io?style=for-the-badge) [![Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE%21&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fwww.reikolydia.xyz%2F)](https://www.reikolydia.xyz/)
+![Lines of code](https://img.shields.io/tokei/lines/github/reikolydia/reikolydia.github.io?label=Lines%20Written&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/reikolydia?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/reikolydia/reikolydia.github.io?style=for-the-badge) [![Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE%21&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Freikolydia.xyz%2F)](https://reikolydia.xyz/)
 
 ---
 
