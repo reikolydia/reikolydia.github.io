@@ -48,8 +48,7 @@
 
 ### 📞 &nbsp;Contact Me!
 
-[![iCloud](https://img.shields.io/badge/-reikolydia@icloud.com-05122A?style=for-the-badge&logo=iCloud)](mailto:reikolydia@icloud.com)
-[![Email](https://img.shields.io/badge/reiko%40reikolydia.xyz-05122A?style=for-the-badge&logo=Mail.Ru)](mailto:reiko@reikolydia.xyz)
+[![Email](https://img.shields.io/badge/github-contact%40reikolydia.xyz-05122A?style=for-the-badge&logo=Mail.Ru)](mailto:github-contact@reikolydia.xyz)
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jazereel-lydia-goh-reiko/)
