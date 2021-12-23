@@ -48,7 +48,7 @@
 
 ### 📞 &nbsp;Contact Me!
 
-[![Email](https://img.shields.io/badge/github-contact%40reikolydia.xyz-05122A?style=for-the-badge&logo=Mail.Ru)](mailto:github-contact@reikolydia.xyz)
+[![Email](https://img.shields.io/badge/github%2Econtact%40reikolydia.xyz-05122A?style=for-the-badge&logo=Mail.Ru)](mailto:github.contact@reikolydia.xyz)
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jazereel-lydia-goh-reiko/)
