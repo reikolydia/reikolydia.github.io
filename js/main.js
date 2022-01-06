@@ -212,12 +212,12 @@ $("#testimonial-carousel").owlCarousel({
 //ugly implementation of hashing here
 //scheduled to automate this via js
 
-// Get-FileHash .\JazereelGoh_2021.pdf -Algorithm MD5 | Format-List
-var md5hash = 'D33F24B5019F15B9B07F04200D515777';
-// Get-FileHash .\JazereelGoh_2021.pdf -Algorithm SHA1 | Format-List
-var sha1hash = '24A76F14ABDD1ED57450CEFA0CCF7EFB07ECD7C1';
-// Get-FileHash .\JazereelGoh_2021.pdf -Algorithm SHA512 | Format-List
-var sha3512hash = '5E7D000B3D4E22E6C57DA0CC0160181BE84039AE1089BB1451711C1BC9C19BBEB1F9A97D155352D3FF22D3316E9A2840FFB6B04DBD325820AD07FF355231588C';
+// Get-FileHash .\JazereelGoh_2022.pdf -Algorithm MD5 | Format-List
+var md5hash = 'C09CB41357F08C6B78076E1FFCE0E8DC';
+// Get-FileHash .\JazereelGoh_2022.pdf -Algorithm SHA1 | Format-List
+var sha1hash = '1F040BDF966C2C66E59FBC3FDECE8D46E286F459';
+// Get-FileHash .\JazereelGoh_2022.pdf -Algorithm SHA512 | Format-List
+var sha3512hash = '8AF79EE9C61440E220B9935987A398BCEFE144948FDD5C374BC3A3BAF8E9D59AA1490032CBB9957CDB8D3751A3518E8B4718CB0D2F16DF70929A305801EFF859';
 var hasharray = [{hashname: 'MD5', hashvalue: md5hash}, {hashname: 'SHA-1', hashvalue: sha1hash}, {hashname: 'SHA3-512', hashvalue: sha3512hash}];
 var hashes = hasharray.reduce((acc, {hashname, ...x}) => { acc[hashname] = x; return acc}, {});
 
@@ -227,7 +227,7 @@ console.log("%cI %calso %cknow there are errors here.", "color: red", "color: ye
 console.log("%cSTILL, WHY ARE YOU HERE?", logstyle);
 console.log("%cMaybe you'd like to download my resume here instead?", "color: green");
 console.groupCollapsed("Click here then.");
-console.log("https://github.com/reikolydia/reikolydia/raw/master/images/about/JazereelGoh_2021.pdf\n");
+console.log("https://reikolydia.xyz/images/about/JazereelGoh_2022.pdf\n");
 console.group("Just make sure the file has the following hashes:");
 console.table(hashes);
 console.groupEnd;
